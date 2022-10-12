@@ -12,3 +12,4 @@
         - [Day 4 of Domain Specific_Dart Tutorial 4 | Exception Handling | 09/10/2022](https://github.com/rohit-753/DomainSkills/tree/main/04_Day%204%20of%20Domain%20Specific_Dart%20Tuitorial%204)
         - [Day 5 of Domain Specific_Dart Tutorial 5 | Classes and Objects | 10/10/2022](https://github.com/rohit-753/DomainSkills/tree/main/05_Day%205%20of%20Domain%20Specific_Dart%20Tuitorial%205)
         - [Day 6 of Domain Specific_Dart Tutorial 6 | Constructor | 11/10/2022](https://github.com/rohit-753/DomainSkills/tree/main/06_Day%206%20of%20Domain%20Specific_Dart%20Tuitorial%206)
+        - [Day 7 of Domain Specific_Dart Tutorial 7 | Getter Setter | 12/10/2022](https://github.com/rohit-753/DomainSkills/tree/main/07_Day%207%20of%20Domain%20Specific_Dart%20Tutorial%207)
