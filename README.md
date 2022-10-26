@@ -26,3 +26,4 @@
         - [Day 18 of Domain Specific_Dart Tutorial 18 | Growable list | 23/10/2022](https://github.com/rohitranjan753/DomainSkills/tree/main/18_Day%2018%20of%20Domain%20Specific_Dart%20Tutorial%2018_Growable%20list)
         - [Day 19 of Domain Specific_Dart Tutorial 19 | Maps & Hashmaps | 24/10/2022](https://github.com/rohitranjan753/DomainSkills/tree/main/19_Day%2019%20of%20Domain%20Specific_Dart%20Tutorial%2019_Maps%20%26%20Hashmaps)
         - [Day 20 of Domain Specific_Dart Tutorial 20 | Set & Hashset | 25/10/2022](https://github.com/rohitranjan753/DomainSkills/tree/main/20_Day%2020%20of%20Domain%20Specific_Dart%20Tutorial%2020_Set%20%26%20Hashset)
+        - [Day 21 of Domain Specific_Dart Tutorial 21 | Callable classes | 26/10/2022](https://github.com/rohitranjan753/DomainSkills/tree/main/21_Day%2021%20of%20Domain%20Specific_Dart%20Tutorial%2021_Callable%20classes)
